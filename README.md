@@ -1,13 +1,9 @@
-<div align="center">
-
 # 👋 Hi, I'm MD Fardin Hassan
 
 ### Software Engineer | Fintech & Web3 | Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdfhassan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fardinhassan0@gmail.com)
-
-</div>
 
 ---
 
@@ -93,13 +89,9 @@ Bridging traditional finance with blockchain technology:
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdyahassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyahassan&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
-
-</div>
 
 > **Note**: Most of my professional work is in private organization repositories at BankSocial, which includes proprietary fintech and embedded wallet solutions. My public contributions are limited to academic projects and open-source explorations.
 
@@ -122,14 +114,9 @@ Currently building cutting-edge fintech solutions including:
 
 ## 📫 Let's Connect
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdfhassan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fardinhassan0@gmail.com)
 
 **"Building the future of financial technology, one commit at a time."**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mdyahassan&color=70a5fd&style=for-the-badge)
-
-</div>
-

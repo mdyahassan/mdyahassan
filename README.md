@@ -89,9 +89,17 @@ Bridging traditional finance with blockchain technology:
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdyahassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdyahassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyahassan&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyahassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdyahassan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 > **Note**: Most of my professional work is in private organization repositories at BankSocial, which includes proprietary fintech and embedded wallet solutions. My public contributions are limited to academic projects and open-source explorations.
 
